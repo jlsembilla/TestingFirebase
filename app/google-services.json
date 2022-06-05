@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384013298591",
+    "project_id": "testingproject-40f31",
+    "storage_bucket": "testingproject-40f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384013298591:android:77721058142ffa5757ebaa",
+        "android_client_info": {
+          "package_name": "com.truckingsys.testingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384013298591-gjo83r7bv6nbka3shqg2j5g6u8cjgnhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJm4nUYKU2Fy_U8762_lGaa6dkKDrZxE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384013298591-gjo83r7bv6nbka3shqg2j5g6u8cjgnhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
